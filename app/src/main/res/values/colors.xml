@@ -1,0 +1,12 @@
+<resources>
+    <color name="gold">#D4AF37</color>
+    <color name="gold_light">#F0D584</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="overlay_bg">#CC1A1A1A</color>
+    <color name="bg_dark">#121212</color>
+    <color name="bg_card">#1E1E1E</color>
+    <color name="gray_light">#9E9E9E</color>
+    <color name="price_up">#4CAF50</color>
+    <color name="price_down">#F44336</color>
+</resources>

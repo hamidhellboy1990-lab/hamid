@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">قیمت انس طلا</string>
+    <string name="btn_permission">فعال‌سازی مجوز نمایش روی اپ‌ها</string>
+    <string name="btn_start">شروع نمایش پاپ‌آپ</string>
+    <string name="btn_stop">توقف پاپ‌آپ</string>
+    <string name="hint_api_key">API Key سایت GoldAPI.io را اینجا وارد کنید</string>
+    <string name="btn_save_key">ذخیره کلید</string>
+</resources>
